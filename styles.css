@@ -1,0 +1,17 @@
+a:hover{
+    color: black;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+}
+@media screen and(max-width:900){
+    .carousel-caption{
+        display: none;
+    }
+}
+.card-img-top{
+    width:100%;
+    height:auto;
+}
